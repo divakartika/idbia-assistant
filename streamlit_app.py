@@ -3,7 +3,7 @@ from openai import OpenAI
 
 
 """
-# IDBIA Helper 😣🆘
+# IDBIA Assistant 🧙‍♂️
 """
 
 # Set OpenAI API key from Streamlit secrets
